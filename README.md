@@ -2,7 +2,7 @@
 
 Un temporizador Pomodoro personalizable, simple y eficaz para tu terminal. Creado con Python, este proyecto busca ser tanto una herramienta práctica para el día a día como un campo de pruebas para el aprendizaje y la implementación de nuevas tecnologías.
 
-![demo](https://i.imgur.com/example.gif) <!-- ¡Esto es un placeholder! Puedes crear un GIF de la terminal funcionando y reemplazar el link -->
+![demo]([https://i.imgur.com/example.gif](https://media.discordapp.net/attachments/1257517677895749665/1458064771034120202/image.png?ex=695e4822&is=695cf6a2&hm=06a008ba37e27b2cd01f9171cfafae54e11cfb232cfdef52950b6b285065925e&=&format=webp&quality=lossless)) <!-- ¡Esto es un placeholder! Puedes crear un GIF de la terminal funcionando y reemplazar el link -->
 
 ---
 
