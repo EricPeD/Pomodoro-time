@@ -1,0 +1,10 @@
+feat: Implementación inicial del temporizador Pomodoro interactivo
+
+Este commit marca la finalización de la Fase 1 del proyecto, introduciendo una Interfaz de Usuario en Terminal (TUI) interactiva para el temporizador Pomodoro. Las principales características incluyen:
+
+-   Temporizador personalizable con sesiones de trabajo y descanso.
+-   Notificaciones de escritorio para el inicio y fin de las sesiones.
+-   Control interactivo en tiempo real (pausar, reanudar, saltar sesiones) mediante pulsaciones de teclado.
+-   Uso de `rich` para una experiencia visual dinámica en la terminal.
+
+Se actualiza el `README.md` para reflejar estas nuevas funcionalidades y el progreso en el roadmap.

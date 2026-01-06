@@ -2,15 +2,16 @@
 
 Un temporizador Pomodoro personalizable, simple y eficaz para tu terminal. Creado con Python, este proyecto busca ser tanto una herramienta práctica para el día a día como un campo de pruebas para el aprendizaje y la implementación de nuevas tecnologías.
 
-![test]([https://i.imgur.com/example.gif](https://media.discordapp.net/attachments/1257517677895749665/1458064771034120202/image.png?ex=695e4822&is=695cf6a2&hm=06a008ba37e27b2cd01f9171cfafae54e11cfb232cfdef52950b6b285065925e&=&format=webp&quality=lossless)) <!-- ¡Esto es un placeholder! Puedes crear un GIF de la terminal funcionando y reemplazar el link -->
+![test](https://media.discordapp.net/attachments/1257517677895749665/1458064771034120202/image.png?ex=695e4822&is=695cf6a2&hm=06a008ba37e27b2cd01f9171cfafae54e11cfb232cfdef52950b6b285065925e&=&format=webp&quality=lossless) <!-- ¡Esto es un placeholder! Puedes crear un GIF de la terminal funcionando y reemplazar el link -->
 
 ---
 
 ## ✨ Características Actuales
 
+-   **Interfaz de Usuario en Terminal (TUI) Interactiva:** Desarrollado con `rich`, ofrece una experiencia visual dinámica con una barra de progreso.
+-   **Control Interactivo:** Pausa, reanuda o salta sesiones (trabajo/descanso) en tiempo real mediante pulsaciones de teclado.
 -   **Temporizador Personalizable:** Define la duración de tus sesiones de trabajo, descansos cortos y descansos largos directamente desde la línea de comandos.
 -   **Notificaciones de Escritorio:** Recibe alertas visuales al inicio y final de cada sesión.
--   **Contador Dinámico:** Visualiza el tiempo restante directamente en tu terminal, actualizándose cada segundo sin saturar la pantalla.
 -   **Ciclos Configurables:** Decide cuántas sesiones de trabajo completas un ciclo antes de un descanso largo.
 
 ---
@@ -72,7 +73,7 @@ Un temporizador Pomodoro personalizable, simple y eficaz para tu terminal. Cread
 
 Este proyecto está en desarrollo activo con una visión clara para el futuro. ¡Tu feedback o contribuciones son bienvenidas!
 
--   **Fase 1: TUI e Interactividad**
+-   **Fase 1: TUI e Interactividad - [COMPLETADA]**
     -   Implementar una interfaz de usuario en terminal (TUI) con `rich`.
     -   Añadir una barra de progreso visual.
     -   Incorporar interactividad para **pausar, saltar y reiniciar** sesiones.
